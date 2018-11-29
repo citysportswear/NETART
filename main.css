@@ -18,3 +18,8 @@ a {
 color: BLACK;
 text-decoration: none;
 }
+
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}
