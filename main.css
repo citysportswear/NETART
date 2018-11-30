@@ -23,3 +23,9 @@ table.cent {
   margin-left:auto;
   margin-right:auto;
 }
+
+.space {
+  position: fixed;
+  margin-top: -300px
+
+}
